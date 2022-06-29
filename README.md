@@ -1,4 +1,4 @@
-# Plugin report loan_by staff for SLiMS
+# Plugin report loan by staff for SLiMS
 Plugin create filter "report loan perform by staff librarian"
 ## How to install plugin
 - Download the plugin, extract and upload to plugins folder in the source code SliMS;
